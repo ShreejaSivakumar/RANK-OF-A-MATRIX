@@ -24,7 +24,7 @@ print(rank)
 
 ## Output:
 
-<img width="1307" height="812" alt="image" src="https://github.com/user-attachments/assets/ab0aef35-3197-457b-9eab-fe713e04930c" />
+<img width="1296" height="818" alt="image" src="https://github.com/user-attachments/assets/c0c57e49-4709-4b96-902b-18c1477b34af" />
 
 
 NAME : SHREEJA R S
